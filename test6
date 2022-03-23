@@ -1,0 +1,17 @@
+Cresco.exam
+<!--COL 1-->
+<div id="navigacia">
+<table>
+<tr><td><a href="http://www.gymnastics.sk">Slovak version</a></td></tr>
+<tr><td><a href="calendar.html">Calendar</a></td></tr>
+<tr><td><a href="photo-m.html">Photos Men</a></td></tr>
+<tr><td><a href="photo-w.html">Photos Women</a></td></tr>
+<tr><td><a href="results.html">Results</a></td></tr>
+<tr><td><a href="statistics.html">Statistics</a></td></tr>
+<tr><td><a href="2007/danubecup.html">Rhythmics</a></td></tr>
+<tr><td><a href="trivia.html">Trivia</a></td></tr>
+<tr><td><a href="whoiswho.html">Who is who</a></td></tr>
+<tr><td><a href="links.html">Links</a></td></tr>
+<tr><td><a href="aboutme.html">About me</a></td></tr>
+<tr><td><a href="mailto:gymnet@gmail.com">Email Me</a></td></tr>
+<tr><td align=center>
